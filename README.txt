@@ -1,3 +1,6 @@
+This model implements the perceptron algorithm to predict wether the email received is spam or not.
+
+
 The perceptron algorithm is one of the earliest forms of supervised learning algorithms for binary classification tasks. It was proposed by Frank Rosenblatt in 1957 and is the simplest form of a single-layer neural network. Here's a detailed explanation of how the perceptron algorithm works:
 
 Perceptron Model: The perceptron is a binary classifier that maps input vectors to output values through a process of weighted summation followed by a thresholding operation. It takes a vector of input features 
