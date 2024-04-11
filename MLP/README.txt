@@ -1,0 +1,1 @@
+This model implements the MLP for image recognition.
